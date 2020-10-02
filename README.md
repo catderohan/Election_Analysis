@@ -26,13 +26,11 @@ The analysis of the election candidates were the following:
       * Jefferson: 10.5% (38,855)
       * Denver: 82.8% (306,055)
       * Arapahoe: 6.7% (24,801)
- 
- Deliverable 1:*
- ![Terminal Results](Resources/election_analysis_terminal.png)
- 
- 
+ *Deliverable 1:*
+ ![](resources/election_analysis_terminal.PNG)
+
  *Deliverable 2:*
- ![Text File results](Resources/election_analysis_text.png)
+ [](/resources/election_analysis_txt.PNG)]
  
 ## Election Audit Summary
 This script can be used for any election to get a quick run down of election results by candidate or county. This provides a simple overview of the election results: which candidate won, the percentage they won by, the amount of votes, the largest county turnout, and percentage of votes by county. We could alter this code in a variety of ways to get additional data. We could change largest county turnout to lowest county turnout. Doing this we would need to alter the code to < instead of> when initatilizng the if statement for largest county. We could also look at the loser of the election and compare how much they lost by to the winning candidate. To change this code would be similar, in changing < to > when initializing the if statement for winning votes. Lastly, we could look at the county's results by candidate to see which county favored which candidate. 
