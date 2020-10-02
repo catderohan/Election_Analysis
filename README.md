@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 ## Project Overview
 A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election:
   * Calculate the total number of votes cast
@@ -32,7 +32,8 @@ The analysis of the election candidates were the following:
 ![](/election_analysis_terminal2.PNG)
 
  **Deliverable 2:**
-![](Resources/election_analysis_text.PNG)
+ 
+![](/election_analysis_text2.PNG)
 
  
 ## Election Audit Summary
