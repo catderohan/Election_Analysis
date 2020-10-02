@@ -26,10 +26,11 @@ The analysis of the election candidates were the following:
       * Jefferson: 10.5% (38,855)
       * Denver: 82.8% (306,055)
       * Arapahoe: 6.7% (24,801)
- *Deliverable 1:*
+ 
+ **Deliverable 1:
 ![](Resources/election_analysis_terminal.PNG)
 
- *Deliverable 2:*
+ **Deliverable 2:
 ![](Resources/election_analysis_text.PNG)
  
 ## Election Audit Summary
