@@ -90,7 +90,7 @@ with open(file_to_save, "w") as txt_file:
         f"-------------------------\n"
         f"County Votes:\n")
     print(election_results, end="")
-
+    
     txt_file.write(election_results)
 
     # 6a: Write a repetition statement to get the county from the county dictionary.
