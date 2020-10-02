@@ -28,8 +28,8 @@ The analysis of the election candidates were the following:
       * Arapahoe: 6.7% (24,801)
  
  **Deliverable 1:**
-![](Resources/election_analysis_terminal.PNG)
-![](Resources/election_analysis_terminal2.PNG)
+
+![](/election_analysis_terminal2.PNG)
 
  **Deliverable 2:**
 ![](Resources/election_analysis_text.PNG)
