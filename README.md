@@ -12,17 +12,15 @@ Using these steps we are able to see the votes by total and percentage of county
   * Data Source: election_results.csv
   * Software: Python 3.7.2 Visual Studio Code
 ## Election Audit Results
-The analysis of the election candidates below:
+Election candidate results:
   * There were 369,711 votes case in the election
   * The candidate results were:
     * Charles Casper received 23% of the vote and 85,213 number of votes
     * Diana DeGette received 73.8% of the vote and 272,892 number of votes
     * Raymon Anthony Davis received 3.1% of the vote and 11,606 number of votes
-   
- The winner of the election was Candidate Diane DeGette who recieved 73.8% of the vote and 272,892 nuber of votes 
+    * The winner of the election was Candidate Diane DeGette who recieved 73.8% of the vote and 272,892 nuber of votes 
  
- The analysis of the election counties results:
- 
+Election county results: 
     * Largest County Turnout: Denver
     * County Votes:
       * Jefferson: 10.5% (38,855)
