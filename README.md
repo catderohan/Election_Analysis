@@ -33,7 +33,7 @@ The analysis of the election candidates were the following:
 
  **Deliverable 2:**
  
-![](images/election_analysis_text2.PNG)
+![](images/election_analysis_text3.PNG)
 
  
 ## Election Audit Summary
