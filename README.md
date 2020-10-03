@@ -18,8 +18,10 @@ The analysis of the election candidates were the following:
     * Charles Casper received 23% of the vote and 85,213 number of votes
     * Diana DeGette received 73.8% of the vote and 272,892 number of votes
     * Raymon Anthony Davis received 3.1% of the vote and 11,606 number of votes
+   
    The winner of the election was
     * Candidate Diane DeGette who recieved 73.8% of the vote and 272,892 nuber of votes 
+ 
  The analysis of the election counties were the following:
     * Largest County Turnout was Denver
     * County Votes:
