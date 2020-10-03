@@ -29,11 +29,11 @@ The analysis of the election candidates were the following:
  
  **Deliverable 1:**
 
-![](images/election_analysis_terminal2.PNG)
+![](images/election_analysis_terminal3.PNG)
 
  **Deliverable 2:**
  
-![](images/election_analysis_text3.PNG)
+![](images/election_analysis_text2.PNG)
 
  
 ## Election Audit Summary
