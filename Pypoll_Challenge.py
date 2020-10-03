@@ -90,7 +90,7 @@ with open(file_to_save, "w") as txt_file:
         f"-------------------------\n"
         f"County Votes:\n")
     print(election_results, end="")
-    
+
     txt_file.write(election_results)
 
     # 6a: Write a repetition statement to get the county from the county dictionary.
@@ -106,6 +106,7 @@ with open(file_to_save, "w") as txt_file:
             )
 
          # 6e: Save the county votes to a text file.
+        print(county_results, end="")
         txt_file.write(county_results)
          # 6f: Write a decision statement to determine the winning county and get its vote count.
         if(county_vote > largest_county_vote): 
